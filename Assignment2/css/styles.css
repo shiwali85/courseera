@@ -1,0 +1,72 @@
+body{
+	background-color: white;
+}
+
+#header-nav{
+	border: 0;
+	border-radius: 0;
+	position: relative;
+	border-width: 0;
+	background-color: yellow;
+	margin-bottom: 30px;
+	
+}
+
+ .navbar-brand h1 {
+  margin:auto;
+  position: absolute;
+  left: 25px;
+  top:10px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px #222;
+  font-weight: bold;
+  font-size: 1.5em;
+
+  }
+  .row {
+height: 1000px;
+padding-right: 30px;
+padding-left: 30px;
+padding-top: -20px;
+
+}
+.container{
+	padding-right: 0;
+	padding-left: 0;
+	padding-top: 0;
+
+
+}
+#Chicken{
+	background-color: grey;
+	text-align: center;
+
+}
+#Chick{
+	background-color: grey;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+#nav-list{
+	font-size: 20px;
+	background-color: white;
+}
+  hr{
+    padding: 0px;
+    margin: 0px;    
+  }
+  #collapsable-nav{
+  
+  	margin-bottom: -20px;
+  	padding-top: 2px;
+  }
+  .navbar-header{
+  	padding-bottom: 0;
+  	padding-right: 15px;
+  }
+h2{
+	margin-top: 0;
+	padding-bottom: 20px;
+	font-weight: bold;
+}
